@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="50" height="40" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="floor.tsx"/>
+ <tileset firstgid="6" source="dark_forest.tsx"/>
+ <tileset firstgid="48" source="light_forest.tsx"/>
+ <tileset firstgid="198" source="variety_tiles.tsx"/>
+ <layer name="floor accents" width="50" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3UwQkAMAgDQD/df2WXKGjwboIQSKpgtzcd4CCdQ7ZfG/YFkC11w3IDAAAAMKkBSOpAGEAfAAA=
+  </data>
+ </layer>
+ <layer name="floor" width="50" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3V0QmDMBSF4WvmqlO00zmDiEI3sFM4TSMIBjkRkpfclv/h8/n8xGhnZh0AAAAAAAAA/LFHfPSJ1ntqG97RK9F6U80ZXBt+reMp9q/B7BPabys5B7V/iUbHHek9Vu/RduwfnXbc3QF1Dt46avfvJkcd6g7P4ZTbPznuWDO71X4vHddvUa5BbffSof7LQ+F+Dx3qTgwVDZ47Shp2X548jINAHwAA
+  </data>
+ </layer>
+ <layer name="boundary" width="50" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACs1Ya08bMRA0kJBSUSgQqgJRQVE/pH+v/H8Jr3ojhqlfe9injLRK7uxde70P795TCOEp0nmk60ib6VkJ4y2UkuHh99BG1vge6XekKxnH+hhvoW8J+ZcOfs86f0SHH+EftqIP9o/xFmynNXBml05+7zqmB+ugc3j/PyM90PiXSBcTfS3we8+A8Sj/XxJz7LzN9reyD90v8CvSs/DD/1TGkmCb8D6w39X0vE7wrkLa/5bCS/hoK9sDx/EcqP95kDojL8y/7yLdhI8xwrJPIp11WEsxR6bywB5mC/OpUblkCcAWGhu5GJ+DmqweayFX4Z66md5rTmpFKifUZOn4nFjhXMV66L5q0HmrwpgXrXqxTcy39D6rybFx7JXvxBTp3VKbX7pfFWoT1CdzgJyRqwVV7lVmHhNqjdp5cqxrjdUao7AH575UPaf5cJuZx/Uf9KgBayM+eC1vjEJWrzvdI0/18IJjA3atrduaB1iPnG/gPevhrfM4TqED1t055Ch24f9zyfkG3rMenLNa8oTysh77MC//riZez/myzimq8es9ynocQr5+KtVrZxNv6nxTeynpwHmz5Ova70En8My5AzX31faiuZt5OG/WakfOnT3zVSqHl/pVEH8DmFv35vTgO6xUw7TIqiFXt6fu0VxPPsIeXlme+bmeHGtzzmutk7TWar2LFFinJe/nenLE/Sa01VeMXK3l1QM8ewdPqicv1UyluDO++wR5YxX14YHe9ej/l4bpYPv+TD1xDLDYMD08fnWMQK/i8atj9Dvo0dOvanqO+CYGPUb5Fe6H0d9/EefmV2qTHufWu1fMAXFugE12hd8HeV7Ls/ZvS+mB+oJjfV/4fa6Mj+7dc+BeBXY5fPIXMHlce42MEe271h1Je7aRNsn16D1I+87eNnk9fadcjz6Keury9/Sd3gAoFTcaQB8AAA==
+  </data>
+ </layer>
+</map>
