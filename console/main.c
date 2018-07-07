@@ -1,18 +1,19 @@
 //***********************  main.c  ***********************
 // Program written by: Chimezie Iwuanyanwu & Cole Thompson
 //
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
 #include "../../inc/tm4c123gh6pm.h"
 #include "pll.h"
-#include "esp8266.h"				// PB0,1,5 (TX,RX,CH_SEL); UART1
-#include "LED.h"						// PF4-0 for led and switches (keep)
-#include "ST7735.h"					// PA2,3,5,6,7 lcd; PD7 sd card
-#include "buttons.h"				// Uses PE2-0, timer 3
+#include "esp8266.h"				
+#include "LED.h"						
+#include "ST7735.h"					
+#include "buttons.h"				
 #include "gamemodel.h"
-#include "time.h"						// timer 2
+#include "time.h"						
 #include "Packet.h"
 #include "lcd.h"
 #include "random.h"

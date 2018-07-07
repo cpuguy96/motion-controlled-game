@@ -1,3 +1,6 @@
+//***********************  Music.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+// This file is not used in code, but maybe you can get it working!
 
 #include <stdint.h>
 #include "../inc/tm4c123gh6pm.h"

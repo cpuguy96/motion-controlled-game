@@ -1,4 +1,6 @@
-
+//***********************  lcd.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+//
 #include <stdint.h>
 #include <stdio.h>
 #include "lcd_constants.h"

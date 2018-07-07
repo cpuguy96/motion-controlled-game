@@ -1,3 +1,6 @@
+//***********************  Packet.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+//
 
 #include <stdio.h>
 #include <stdint.h>

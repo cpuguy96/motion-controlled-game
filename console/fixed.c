@@ -1,9 +1,6 @@
-
-// filename ******** fixed.c **************
-// Cole Thompson cnt584
-// Chimezie Iwuanyanwu cci273
-// 1/23/18
-
+//***********************  fixed.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+//
 #include <stdio.h>
 #include <stdint.h>
 #include "ST7735.h"

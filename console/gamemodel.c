@@ -1,3 +1,7 @@
+//***********************  gamemodel.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+//
+
 #include <stdint.h>
 #include <string.h>
 #include "gamemodel.h"

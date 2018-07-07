@@ -1,3 +1,6 @@
+//***********************  DAC.c  ***********************
+// Program written by: Chimezie Iwuanyanwu & Cole Thompson
+// This file is not used in program, but maybe you can get it working!
 
 #include <stdint.h>
 #include <string.h>
